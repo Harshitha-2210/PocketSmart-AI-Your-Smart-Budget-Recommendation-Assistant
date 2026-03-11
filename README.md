@@ -1,4 +1,4 @@
-# PocketSmart.AI 💰
+# PocketSmart AI — Your Smart Budget Recommendation Assistant 💰
 
 An AI-powered budget planning web application built with **FastAPI** and **Google Gemini AI**. PocketSmart AI helps users plan budgets across three major life categories — Home Interior, Party Events, and Jewelry — with smart product recommendations and direct shopping links.
 
@@ -31,7 +31,7 @@ An AI-powered budget planning web application built with **FastAPI** and **Googl
 ## 📁 Project Structure
 
 ```
-pocketsmart-ai/
+PocketSmart-AI-Your-Smart-Budget-Recommendation-Assistant/
 │
 ├── app.py                  # Main FastAPI application
 ├── state.py                # Shared in-memory history store
@@ -64,8 +64,8 @@ pocketsmart-ai/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pocketsmart-ai.git
-cd pocketsmart-ai
+git clone https://github.com/YOUR_USERNAME/PocketSmart-AI-Your-Smart-Budget-Recommendation-Assistant.git
+cd PocketSmart-AI-Your-Smart-Budget-Recommendation-Assistant
 ```
 
 ### 2. Create a virtual environment
@@ -114,6 +114,7 @@ Visit `http://localhost:8000` in your browser.
 | Gifts & Decoration | Amazon, Flipkart, Meesho |
 
 ---
+
 
 ## 📦 Requirements
 
